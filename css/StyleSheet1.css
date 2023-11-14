@@ -94,7 +94,7 @@ html {
 /* always display scrollbars */
 body {
 	line-height: 1;
-	font-family: Arial, Tahoma, Verdana, sans-serif;
+	font-family: 'Montserrat', sans-serif;
 }
 li {
 	list-style-type: none;
@@ -115,7 +115,7 @@ section {
 .nav-link span {
 	display: no;
 	font-weight: bold;
-	font-family: 'Century Gothic', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	color: #32b6e1;
 }
 
